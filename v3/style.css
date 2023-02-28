@@ -1,0 +1,32 @@
+#button {
+  background-color: bisque;
+  padding: 30px 60px;
+  font-size: 35px;
+  border-radius: 10px;
+  border: 5px solid black;
+  color:red;
+}
+
+#button:hover {
+  background-color: aquamarine;
+  cursor: pointer;
+}
+
+#title {
+  text-align: center;
+  color:red;
+}
+
+.everything {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.img{
+  width:180px;
+  height:180px;
+}
+.img-last{
+
+}
